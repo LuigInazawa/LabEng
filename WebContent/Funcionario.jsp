@@ -56,7 +56,7 @@
 			<li><a href="./Teste.jsp">Chamado</a></li>
 			<li><a href="./JanEmpresa.jsp">Clientes</a></li>
 			<li><a href="./JanFuncionário.jsp">Funcionarios</a></li>
-			<div align="right"> <li><a href="">Logout</a></li></div>
+			<div align="right"> <li><a href="./Login.jsp">Logout</a></li></div>
 		</ul>
 		<hr color="LightGrey" size="10px">
 	</div>
