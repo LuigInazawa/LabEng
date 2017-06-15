@@ -6,14 +6,15 @@ public class Chamado {
 	private String tipoChamado;
 	private String motivoChamado;
 	private String retornoChamado;
-	private String cnpjCliente;
+	private String cnpjEmpresa;
 	private String cpfFuncionario;
 	
-	public String getCnpjCliente() {
-		return cnpjCliente;
+	
+	public String getCnpjEmpresa() {
+		return cnpjEmpresa;
 	}
-	public void setCnpjCliente(String cnpjCliente) {
-		this.cnpjCliente = cnpjCliente;
+	public void setCnpjEmpresa(String cnpjEmpresa) {
+		this.cnpjEmpresa = cnpjEmpresa;
 	}
 	public String getCpfFuncionario() {
 		return cpfFuncionario;
