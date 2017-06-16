@@ -7,9 +7,9 @@ import java.sql.SQLException;
 public class DBUtil {
 	
 	private static final String URL = 
-			"jdbc:mysql://localhost:3306/chamado?autoReconnect=true";
-	private static final String USER="root";
-	private static final String PASS="123456";
+			"jdbc:mysql://sql10.freemysqlhosting.net/sql10180274?autoReconnect=true";
+	private static final String USER="sql10180274";
+	private static final String PASS="x3ZM9B1kRw";
 	private static final String DRIVER="com.mysql.jdbc.Driver";
 	
 	

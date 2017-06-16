@@ -55,8 +55,8 @@
 			<li><a href="">Home</a></li>
 			<li><a href="./Chamado.jsp">Chamados</a></li>
 			<li><a href="./Empresa.jsp">Clientes</a></li>
-			<li><a href="./Funcionário.jsp">Funcionarios</a></li>
-			<div align="right"> <li><a href="./Login.jsp">Logout</a></li></div>
+			<li><a href="./Funcionario.jsp">Funcionarios</a></li>
+			<li><a href="./Login.jsp">Logout</a></li></div>
 		</ul>
 		<hr color="LightGrey" size="10px">
 	</div>
@@ -90,7 +90,7 @@
 					<td><label for="txtIdChamado">Id do Chamado: </label></td>
 					<td align="left"><input type="text" id="txtIdChamado"
 						name="txtIdChamado" disabled="disabled"></td>
-					<td><label for="txtRazao"> Razão Social: </label></td>
+					<td><label for="txtRazao"> CPNJ do cliente: </label></td>
 					<td align="left"><input type="text" id="txtRazao"
 						name="txtRazao"></td>
 				</tr>
@@ -99,7 +99,7 @@
 					<td align="left"><input type="text" id="txtMotivo"
 						name="txtMotivo"></td>
 
-					<td><label for="txtResp"> Responsável do Chamado:</label></td>
+					<td><label for="txtResp"> CPF do Funcionario:</label></td>
 					<td align="left"><input type="text" id="txtResp"
 						name="txtResp"></td>
 				</tr>
